@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20163" started-at="2018-07-26T04:46:23Z" finished-at="2018-07-26T04:46:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20163" started-at="2018-07-26T04:46:23Z" finished-at="2018-07-26T04:46:43Z">
+      <class name="com.Testcases.Tc01_LaunchApplication">
+        <test-method status="PASS" signature="excel()[pri:0, instance:com.Testcases.Tc01_LaunchApplication@14acaea5]" name="excel" duration-ms="835" started-at="2018-07-26T10:16:25Z" finished-at="2018-07-26T10:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel -->
+        <test-method status="PASS" signature="validate_LoginPage()[pri:0, instance:com.Testcases.Tc01_LaunchApplication@14acaea5]" name="validate_LoginPage" duration-ms="16719" started-at="2018-07-26T10:16:26Z" finished-at="2018-07-26T10:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_LoginPage -->
+      </class> <!-- com.Testcases.Tc01_LaunchApplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
