@@ -21,7 +21,7 @@ public class Tc01_LaunchApplication extends GenericFunctions {
 			lgn.enterCredentials();
 			if (lgt.Logoutvalue())
 				System.out.println("Logout is successful");
-			System.out.println("End of the program");
+			System.out.println("End of the HRM program");
 		}
 	}
 
